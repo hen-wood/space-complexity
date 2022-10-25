@@ -1,6 +1,6 @@
 # Space Complexity
-This is a mini project meant to show the space complexity of a function on a graph. 
-It estimates the size using the node module ```object-sizeof``` which estimates size using
+This is a mini project meant to show the space complexity of a function on a graph.
+It estimates the size using the node module ```object-sizeof``` which uses
 ECMAScript Language Specification.
 #
 ```git clone``` this repo, then ```npm i``` to install dependencies. Use ```node space.js``` to
